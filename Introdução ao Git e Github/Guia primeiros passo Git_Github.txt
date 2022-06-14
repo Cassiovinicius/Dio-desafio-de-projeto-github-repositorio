@@ -1,0 +1,6 @@
+Primeiro passo fazer o dowloand do git para sua maquina:
+https://git-scm.com/downloads
+segundo passo fazer o cadastro de uma conta no Github:
+https://github.com/
+abaixo segue link do site de com passo a passo:
+https://www.embarcados.com.br/tutorial-git/
